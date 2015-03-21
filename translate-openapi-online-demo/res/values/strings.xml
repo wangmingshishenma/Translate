@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Translate</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="source_content_text_hint">请输入要翻译的文字</string>
+    <string name="translate">翻译</string>
+    <string name="dict">词典</string>
+    <string name="tts">TTS</string>
+    <string name="translate_result">翻译结果</string>
+    <string name="translate_debug_info">调试信息</string>
+    <string name="offline_package">离线包</string>
+    <string name="download">下载</string>
+    <string name="downloaded">已下载</string>
+    <string name="undownload">未下载</string>
+    <string name="has_update">有更新</string>
+    <string name="update">更新</string>
+    <string name="delete">删除</string>
+    <string name="pause">暂停</string>
+    <string name="resume">继续</string>
+    <string name="error_occurred">出错啦</string>
+
+    <string-array name="language">
+        <item>自动检测</item>
+        <item>中文</item>
+        <item>英语</item>
+    </string-array>
+    <string-array name="language_short">
+        <item>auto</item>
+        <item>zh</item>
+        <item>en</item>
+    </string-array>
+
+</resources>
